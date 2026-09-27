@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">Lets Jarvis — your own assistant on your PC — see this phone\'s screen and operate it (open apps, tap, type, scroll) for you, but only while you have Jarvis switched ON in the Jarvis Hands app. A permanent notification shows when it is active and has a STOP button. Jarvis stays out of banking and payment apps and never types passwords, PINs or OTPs.</string>
+</resources>
